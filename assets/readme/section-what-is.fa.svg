@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="t d" lang="fa">
-  <title id="t">نوا پروکسی چیست؟</title>
-  <desc id="d">نوا پروکسی چیست؟: پروکسی همه‌کارهٔ ضدسانسور و بدون‌سرور</desc>
+  <title id="t">پویان پروکسی چیست؟</title>
+  <desc id="d">پویان پروکسی چیست؟: پروکسی همه‌کارهٔ ضدسانسور و بدون‌سرور</desc>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#6366f1"/><stop offset="1" stop-color="#9d4efb"/>
@@ -36,7 +36,7 @@
         <text x="0" y="11" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="url(#g)" stroke="none">i</text>
       </g>
 
-  <text x="1060" y="62" text-anchor="end" font-family="Vazirmatn,'Vazir','IRANSans','Noto Naskh Arabic',-apple-system,'Segoe UI','Tahoma',sans-serif" font-size="46" font-weight="800" fill="#f4f7fb">نوا پروکسی چیست؟</text>
+  <text x="1060" y="62" text-anchor="end" font-family="Vazirmatn,'Vazir','IRANSans','Noto Naskh Arabic',-apple-system,'Segoe UI','Tahoma',sans-serif" font-size="46" font-weight="800" fill="#f4f7fb">پویان پروکسی چیست؟</text>
   <text x="1058" y="95" text-anchor="end" font-family="Vazirmatn,'Vazir','IRANSans','Noto Naskh Arabic',-apple-system,'Segoe UI','Tahoma',sans-serif" font-size="19" fill="#8a94a6">پروکسی همه‌کارهٔ ضدسانسور و بدون‌سرور</text>
 
   <!-- recurring edge-node motif (left) -->
