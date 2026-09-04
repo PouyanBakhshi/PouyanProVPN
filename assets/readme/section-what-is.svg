@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="t d">
-  <title id="t">What is Nova Proxy?</title>
-  <desc id="d">What is Nova Proxy?: The serverless, all-in-one circumvention proxy</desc>
+  <title id="t">What is Pouyan Proxy?</title>
+  <desc id="d">What is Pouyan Proxy?: The serverless, all-in-one circumvention proxy</desc>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#6366f1"/><stop offset="1" stop-color="#9d4efb"/>
@@ -28,7 +28,7 @@
       </g>
 
   <!-- title + subtitle -->
-  <text x="140" y="62" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="46" font-weight="800" fill="#f4f7fb" letter-spacing="-0.5">What is Nova Proxy?</text>
+  <text x="140" y="62" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="46" font-weight="800" fill="#f4f7fb" letter-spacing="-0.5">What is Pouyan Proxy?</text>
   <text x="142" y="95" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" fill="#8a94a6">The serverless, all-in-one circumvention proxy</text>
 
   <!-- recurring edge-node motif -->
