@@ -22,7 +22,7 @@
              C110,30 55,70 0,115
              C-55,70 -110,30 -110,-35
              C-110,-105 -35,-120 0,-75Z"
-          fill="#FF1493"
+          fill="#9eb5ff"
           stroke="#FFFFFF"
           stroke-width="8"/>
 
@@ -40,7 +40,7 @@
           text-anchor="middle"
           fill="#FFFFFF"
           letter-spacing="3">
-      DIANA
+      Pouyan
     </text>
   </g>
 
@@ -51,6 +51,6 @@
         text-anchor="middle"
         fill="#FFFFFF"
         opacity="0.95">
-    © All Rights Reserved by Diana
+    © All Rights Reserved by Pouyan
   </text>
 </svg>
