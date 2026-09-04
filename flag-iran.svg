@@ -3,9 +3,9 @@
   <rect width="1050" height="600" fill="#FFFFFF"/>
 
   <!-- Pink stripes -->
-  <rect width="1050" height="200" y="0" fill="#FFB6D9"/>
-  <rect width="1050" height="200" y="200" fill="#FFF8FC"/>
-  <rect width="1050" height="200" y="400" fill="#FF69B4"/>
+  <rect width="1050" height="200" y="0" fill="#527bff"/>
+  <rect width="1050" height="200" y="200" fill="#9eb5ff"/>
+  <rect width="1050" height="200" y="400" fill="#527bff"/>
 
   <!-- Decorative lines -->
   <g opacity="0.18" fill="#FFFFFF">
